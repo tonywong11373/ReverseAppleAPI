@@ -14,7 +14,7 @@
     "crypto": "^1.0.1",
     "http-cookie-agent": "^1.0.2",
     "node-fetch": "^3.0.0",
-    "telegraf": "^4.4.2",
+    "telegraf": "^4.5.1",
     "tough-cookie": "^4.0.0"
   },
   "type": "module"
